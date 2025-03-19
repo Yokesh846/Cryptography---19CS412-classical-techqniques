@@ -70,7 +70,7 @@ int main()
     return 0;
 }
 
-
+```
 ## OUTPUT:
 ![Screenshot 2025-03-19 092235](https://github.com/user-attachments/assets/f16671c0-a152-4487-a8a7-d246b879e696)
 
